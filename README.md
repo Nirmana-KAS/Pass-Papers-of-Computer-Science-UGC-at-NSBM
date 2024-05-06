@@ -1,5 +1,4 @@
-# Pass-Papers-of-Computer-Science-UGC-at-NSBM 
-<p align="center"><img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/NSBM%20LOGO.png" alt="NSBM LOGO" width="300px" height=""></p>
+<p align="center" style="font-size:50px;">Pass-Papers-of-Computer-Science-UGC-at-NSBM <img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/NSBM%20LOGO.png" alt="NSBM LOGO" width="300px" height=""></p>
 <h3><b>- Include all pass papers for computer science (UGC) at NSBM Green University -</b></h3>
 
 <h5><b>(1) Fisrt year First semester Module's passpapers</b></h5>
