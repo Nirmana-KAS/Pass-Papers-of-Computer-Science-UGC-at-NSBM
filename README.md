@@ -16,9 +16,14 @@
 <h6>4. SE102.3 - Web Application Development</h6>
 <h6>5. SE101.3 - Object Oriented Programming with Java</h6>
 
-<h5><b>(2) Second year First semester Module's passpapers</b></h5>
-<h6>1. CS106.3 - Algorithms and Data Structures</h6>
-<h6>2. CS104.3 - Computer Architechture</h6>
-<h6>3. CN101.3 - Data Communications and Networks</h6>
-<h6>4. SE102.3 - Web Application Development</h6>
-<h6>5. SE101.3 - Object Oriented Programming with Java</h6>
+<h5><b>(3) Second year First semester Module's passpapers</b></h5>
+<h6>1. SE204.3 - Development of Enterprise Applications I</h6>
+<h6>2. CS201.3 - Operating Systems</h6>
+<h6>3. SE201.3 - Systems Analysis and Design</h6>
+<h6>4. MA201.3 - Statistics for Computing</h6>
+<h6>5. CN201.3 - Computer Networks</h6>
+
+
+
+
+
