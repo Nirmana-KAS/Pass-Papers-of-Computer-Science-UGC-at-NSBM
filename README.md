@@ -1,3 +1,4 @@
+<center><img src="img_girl.jpg" alt="NSBM LOGO" width="500" height="600"></center>
 # Pass-Papers-of-Computer-Science-UGC-at-NSBM
 <h3><b>- Include all pass papers for computer science (UGC) at NSBM Green University -</b></h3>
 
