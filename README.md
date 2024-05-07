@@ -23,7 +23,5 @@
 <h6>4. MA201.3 - Statistics for Computing</h6>
 <h6>5. CN201.3 - Computer Networks</h6>
 
-
-
-
+<img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/ViPW.gif" width="100%">
 
