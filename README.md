@@ -23,5 +23,8 @@
 <h6>4. MA201.3 - Statistics for Computing</h6>
 <h6>5. CN201.3 - Computer Networks</h6>
 
+<h5><b>(4) Second year Second semester Module's passpapers</b></h5>
+<h6>1. SE205.3 - Software Architecture<h6>
+
 <img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/ViPW.gif" width="100%" height="50">
 
