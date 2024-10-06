@@ -27,5 +27,7 @@
 <h6>1. SE205.3 - Software Architecture</h6>
 <h6>2. CS202.3 - Systems Fundamentals</h6>
 <h6>3. SE202.3 - Introduction to Software Engineering</h6>
+<h6>4. SE206.3 - Human Computer Interaction</h6>
+
 <img src="https://github.com/Nirmana-KAS/Tempate-Photo/blob/main/ViPW.gif" width="100%" height="50">
 
